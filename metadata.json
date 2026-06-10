@@ -1,0 +1,6 @@
+{
+  "name": "HUZHIYI Entrance Doors",
+  "description": "Premium High-Tech Entrance Doors website featuring modern, flat, international showcase of Pivot, Single, Double, Wrought Iron, and Garage Doors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
